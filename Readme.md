@@ -6,9 +6,9 @@ This project is a product showcase for Marmeto, featuring the "Embrace Sideboard
 
 ## Hosting (Deployed Link)
 
-Github Page: https://constgenius.github.io/Marmeto/
-Vercel: https://marmeto-ten.vercel.app/
-Netlify: https://resplendent-bonbon-662b74.netlify.app/
+* __Github Page__: https://constgenius.github.io/Marmeto/
+* __Vercel__: https://marmeto-ten.vercel.app/
+* __Netlify__: https://resplendent-bonbon-662b74.netlify.app/
 
 ## Getting Started
 
