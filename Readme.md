@@ -19,16 +19,16 @@ cd [project-directory]
 ```
 
 ## Screenshots
-__Desktop__
+## Desktop
 ![Desktop](assets/Desktop.png)
 
-__Mobile__
+## Mobile
 ![Mobile](assets/Mobile.JPG)
 
-__Tablet Portrait__
+## Tablet Portrait
 ![Tablet](assets/TabletPortrait.JPG)
 
-__Tablet Landscape__
+## Tablet Landscape
 ![TabletLandscape](assets/TabletLandscape.JPG)
 
 
