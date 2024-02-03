@@ -23,7 +23,7 @@ __Desktop__
 ![Desktop](assets/Desktop.png)
 
 __Mobile__
-![Mobile](assets/Mobile.png)
+![Mobile](assets/Mobile.JPG)
 
 __Tablet Portrait__
 ![Tablet](assets/TabletPortrait.JPG)
