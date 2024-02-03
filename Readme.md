@@ -1,67 +1,54 @@
-# Coding Assessment L-2 Code Submission Process with Boilerplate
+# Marmeto Product Showcase
 
-Welcome to the coding assessment l2. We are excited to see your skills in action. Please follow the instructions below to submit your solution.
+## Introduction
+
+This project is a product showcase for Marmeto, featuring the "Embrace Sideboard." It provides users with an interactive interface to view product details, select colors and sizes, and add items to their cart. The application fetches product information from a provided API, dynamically updates the UI, and calculates discounts based on the original and discounted prices.
 
 ## Getting Started
 
-1. **Clone or Download:**
-   - If using Git, clone the repository using the following command:
-     ```
-     git clone https://github.com/mmdmrishabh/Coding-assessment-l2-Boilerplate-code.git
-     ```
-   - Alternatively, download the code as a ZIP file and extract it.
+To run the project locally, follow these steps:
 
-2. **Navigate to Project Directory:**
+```bash
+# Clone the repository
+git clone [repository-url]
 
-3. **Explore the Structure:**
-Take a moment to review the project structure:
+# Navigate to the project directory
+cd [project-directory]
 
-        project-root/
-        |-- index.html
-        |-- style.css
-        |-- script.js
-        |-- README.md
-- `index.html`: Main HTML file for your project.
-- `style.css`: CSS file for styling.
-- `script.js`: JavaScript file for scripting logic.
-- `README.md`: Documentation for your project.
-  
-> **Important:** Avoid using additional files or a single file for your code. Feel free to organize asset files by creating a separate folder.
+# Open index.html in your preferred web browser
+```
 
-## Development and Testing
+## Screenshots
+__Desktop__
+![Desktop](assets/Desktop.png)
 
-4. **Start Working:**
-- Read all requirements that are shared with design files.
-- Open `index.html` in your browser to view the initial state of the project, And start coding.
-- Modify the `style.css` and `script.js` files to implement your solution.
-5. **Testing:**
-- Test your code to ensure it produces the expected output.
-- Ensure that the console (Developer Tools) does not display any errors.
+__Mobile__
+![Mobile](assets/Mobile.png)
+
+__Tablet Portrait__
+![Tablet](assets/TabletPortrait.JPG)
+
+__Tablet Landscape__
+![TabletLandscape](assets/TabletLandscape.JPG)
 
 
----
-## Submission Guidelines
+## Usage
 
-### Option 1: GitHub Repository
+Explore the product details, select colors and sizes, and interact with the cart functionality. The application provides an immersive experience for users interested in the "Embrace Sideboard."
 
-1. Create a new public repository on GitHub.
-2. Upload your project files (index.html, style.css, script.js) to the repository.
-3. Write a brief description of your project in the README.md file.
-4. Share the repository URL with us.
+## Features
+* Dynamic product details display.
+* Color and size selection options.
+* Real-time gallery updates.
+* Interactive cart functionality.
 
-### Option 2: ZIP File on Google Drive
+## API Integration
+The project fetches product data from an API to dynamically populate the product details. The color and size options are generated based on the API response.
 
-1. Create a ZIP file of your entire project.
-2. Upload the ZIP file to your Google Drive.
-3. Share the public link to the ZIP file via email.
+## Project Structure
+* __index.html__: The main HTML file containing the structure of the application.
+* __style.css__: The stylesheet with CSS rules for styling the application.
+* __script.js__: The JavaScript file handling dynamic interactions and API integration.
 
-## Hosting (Bonus)
-You can earn bonus points by hosting your project on a free hosting platform such as GitHub Pages or Netlify.
-
-## Important Notes
-
-- Do not use any third-party libraries or frameworks.
-- Ensure that your project works as intended and is free from errors.
-- Make sure to include clear instructions on how to run your project (if necessary).
-
-Feel free to reach out to invigilator at `rishabh@marmeto.com` if you have any questions. Good luck! We look forward to reviewing your submission.
+## Author
+Robin Singh
